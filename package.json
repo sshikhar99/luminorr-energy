@@ -1,0 +1,14 @@
+{
+  "name": "luminorr-energy",
+  "version": "1.0.0",
+  "description": "Luminorr Energy official website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx live-server",
+    "start": "npx live-server"
+  },
+  "keywords": ["solar", "energy", "renewable", "luminorr"],
+  "author": "Luminorr Energy",
+  "license": "ISC"
+}
+

@@ -1,0 +1,44 @@
+/* ===============================
+   ABOUT SECTION (OFFICEBANAO STYLE)
+   =============================== */
+
+.about {
+    background: #f7f9fc; /* very light grey, easy on eyes */
+    padding: 90px 24px;
+}
+
+/* CONTAINER */
+.about-container {
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+}
+
+/* TITLE */
+.about-title {
+    font-size: 34px;
+    font-weight: 600;
+    color: #1f2933;
+    margin-bottom: 20px;
+}
+
+/* TEXT */
+.about-text {
+    font-size: 15px;
+    line-height: 1.8;
+    color: #555555;
+    margin-bottom: 18px;
+}
+
+/* ===============================
+   RESPONSIVE
+   =============================== */
+@media (max-width: 768px) {
+    .about-title {
+        font-size: 28px;
+    }
+
+    .about-text {
+        font-size: 14px;
+    }
+}
